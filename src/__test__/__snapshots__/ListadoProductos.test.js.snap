@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListaProducto/> should render without crashing 1`] = `
+<div
+  className="col-12 p-5 row"
+  data-testid="lista-productos-component"
+>
+  <div
+    className="col-12 col-sm-6 col-md-4 col-lg-3 mb-4"
+  >
+    <div
+      className="card"
+    >
+      <img
+        alt="ooy eqrceli"
+        className="card-img-top"
+        src="https://lider.cl/catalogo/images/whiteLineIcon.svg"
+      />
+      <div
+        className="card-body"
+      >
+        <p
+          className="card-text"
+        >
+          <strong>
+            ooy eqrceli
+          </strong>
+           
+          rlñlw brhrka
+           
+        </p>
+        <div
+          className="product-price"
+        >
+          $ 
+          498.724
+        </div>
+        <div
+          className="product-old-price"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-sm-6 col-md-4 col-lg-3 mb-4"
+  >
+    <div
+      className="card"
+    >
+      <img
+        alt="dsaasd"
+        className="card-img-top"
+        src="https://lider.cl/catalogo/images/babyIcon.svg"
+      />
+      <div
+        className="card-body"
+      >
+        <p
+          className="card-text"
+        >
+          <strong>
+            dsaasd
+          </strong>
+           
+          zlrwax bñyrh
+           
+        </p>
+        <div
+          className="product-price"
+        >
+          $ 
+          130.173
+        </div>
+        <div
+          className="product-old-price"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-sm-6 col-md-4 col-lg-3 mb-4"
+  >
+    <div
+      className="card"
+    >
+      <img
+        alt="weñxoab"
+        className="card-img-top"
+        src="https://lider.cl/catalogo/images/homeIcon.svg"
+      />
+      <div
+        className="card-body"
+      >
+        <p
+          className="card-text"
+        >
+          <strong>
+            weñxoab
+          </strong>
+           
+          hqhoy qacirk
+           
+        </p>
+        <div
+          className="product-price"
+        >
+          $ 
+          171.740
+        </div>
+        <div
+          className="product-old-price"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

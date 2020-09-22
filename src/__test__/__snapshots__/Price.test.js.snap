@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Price/> should render without crashing 1`] = `
+<div
+  className="product-price"
+>
+  $ 
+  [object Object]
+  <img
+    alt="50%"
+    className="image-porciento"
+    src="50porciento.png"
+  />
+</div>
+`;

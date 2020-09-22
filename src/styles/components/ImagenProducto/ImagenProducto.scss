@@ -1,0 +1,20 @@
+.product-price{
+    font-size: $font-size-20;
+}
+
+.product-old-price{
+    text-decoration: line-through;
+      font-size: $font-size-18;
+        padding: $padding-sm 0 $padding-lg 0;
+}
+
+.image-porciento{
+  max-height: 680px;
+  width: 30%;
+  height: 30%;
+  border-radius: 4px;
+}
+
+.card-text{
+  font-size: $font-size-16;
+}

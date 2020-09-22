@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ImagenProducto/> should render without crashing 1`] = `
+<div
+  className="col-12 col-sm-6 col-md-4 col-lg-3 mb-4"
+>
+  <div
+    className="card"
+  >
+    <img
+      alt="ooy eqrceli"
+      className="card-img-top"
+      src="https://lider.cl/catalogo/images/whiteLineIcon.svg"
+    />
+    <div
+      className="card-body"
+    >
+      <p
+        className="card-text"
+      >
+        <strong>
+          ooy eqrceli
+        </strong>
+         
+        rlñlw brhrka
+         
+      </p>
+      <div
+        className="product-price"
+      >
+        $ 
+        498.724
+        <img
+          alt="50%"
+          className="image-porciento"
+          src="50porciento.png"
+        />
+      </div>
+      <div
+        className="product-old-price"
+      >
+        $ 997.448
+      </div>
+    </div>
+  </div>
+</div>
+`;

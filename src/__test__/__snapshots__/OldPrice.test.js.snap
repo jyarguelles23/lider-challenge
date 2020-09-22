@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OldPrice/> should render without crashing 1`] = `
+<div
+  className="product-old-price"
+>
+  $ 500
+</div>
+`;

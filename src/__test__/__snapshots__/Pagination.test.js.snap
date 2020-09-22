@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pagination/> should render without crashing 1`] = `
+<button
+  className="btn btn-primary mr1"
+  name="next"
+  onClick={[Function]}
+  type="button"
+>
+  Siguiente
+</button>
+`;
