@@ -10,9 +10,9 @@ After you build the database image and the backend image
 
 build the docker image run the command <strong> docker build -t lider-challenge-frontend . </strong>
 
-Running the docker image with the data base and the backend run -it -p 8080:8080 --network=host lider-challenge-frontend
+Running the docker image with the data base and the backend <strong> run -it -p 8080:8080 --network=host lider-challenge-frontend </strong>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
