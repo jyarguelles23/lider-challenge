@@ -1,16 +1,16 @@
 This project needs this repositories to get the full version of the software.
 
-This project need this repository https://github.com/walmartdigital/products-db  as the database container. 
+This project need this repository https://github.com/walmartdigital/products-db as the database container.
 
-This project need this repository https://github.com/jyarguelles23/lider-challenge-backend  as the backend project. 
+This project need this repository https://github.com/jyarguelles23/lider-challenge-backend as the backend project.
 
 ## Build the container
-After you build the database image and the backend image 
 
-build the docker image run the command   docker build -t lider-challenge-frontend .
+After you build the database image and the backend image
 
-Running the docker image with the data base and the backend  run -it 8080:8080 --network=host lider-challenge-springboot 
+build the docker image run the command <strong> docker build -t lider-challenge-frontend . </strong>
 
+Running the docker image with the data base and the backend run -it 8080:8080 --network=host lider-challenge-springboot
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
