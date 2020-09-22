@@ -1,5 +1,5 @@
 FROM node:12.18.3 as frontend-build
-WORKDIR /wallmart-frontend-challenge
+WORKDIR /lider-challenge
 
 COPY package.json ./
 RUN npm config set package-lock false
@@ -9,6 +9,6 @@ COPY . ./
 RUN npm run build
 
 FROM nginx:1.14-alpine
-COPY --from=frontend-build /wallmart-frontend-challenge/build /usr/share/nginx/html
+COPY --from=frontend-build /lider-challenge/build /usr/share/nginx/html
 EXPOSE 80
 CMD ["nginx","-g","daemon off;"]
